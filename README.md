@@ -2,7 +2,7 @@
 
 ## Remote sensing tutorials 
 
-Here you'll find a series of tutorials for image processing oriented to remote sensing. 
+Here you'll find a series of resources for image processing oriented to remote sensing. 
 
 ___
 
@@ -14,8 +14,8 @@ ___
 
 #### UAV imagery
 
-##### - [Mapping potato late blight - 1](Mapping_potato_late_blight_from_UAV-based_multispectral_imagery.md)
-##### - [Mapping potato late blight - 2](Multispectral_imagery_classification_using_pre-trained_models.md)
+##### - [Field assessment of potato late blight - 1](Mapping_potato_late_blight_from_UAV-based_multispectral_imagery.md)
+##### - [Field assessment of potato late blight - 2](Multispectral_imagery_classification_using_pre-trained_models.md)
 
 Do you want to contribute? [Drop us an e-mail](mailto:jorodriguezga@unal.edu.co.com) and we’ll help you sort it out.
 
